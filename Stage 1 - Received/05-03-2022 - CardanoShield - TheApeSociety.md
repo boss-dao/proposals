@@ -82,12 +82,19 @@ Also, the argument could be made for buying additional frames and cabins to disp
 
 In order to get more apes framed early on, the DAO will likely need to get more SOCIETY token on secondary (Minswap), once official liquidity is provided, in order to secure additional frames. 1 Frame per Ape is needed, plus 1 frame per Non-Ape NFT that the DAO wants to stake in its cabins. The frames also can be upgraded up to 7 levels.
 
-**How can  the BossDAO participate in the Ape Society $SOCIETY economy?**
+**How can the BossDAO participate in the Ape Society $SOCIETY economy?**
 
 Boss DAO will earn SOCIETY token by staking apes in frames within cabins. Items created by Craftsmen, or looted by military can also be sold for SOCIETY. Frames earn society whether they hold Ape NFTs or non-Ape NFTs, but more SOCIETY will be earned if apes are in the frames.  Non-Ape NFTs just get the base frame SOCIETY reward.  Society token can be used for the following purposes:
 * purchase frames, which are needed to stake apes. Upgrade frames to earn higher SOCIETY rewards.
 * used to buy furniture/items for Cabins on the marketplace Ape Society is building for Cabins.
 * exchange for ADA on the Minswap DEX (once official liquidity pool is up, not up yet), to grow the treasury
+
+**Reasons to be bullish on the value of SOCIETY token**
+* SOCIETY is deflationary. 
+* it will be required to buy frames and items/furniture for cabins, hence there will always be demand for it as long as the community continues to have a use for it.
+* All SOCIETY used to purchase frames is burned.
+* 1% of all marketplace purchases in SOCIETY are burned.
+* supply only 700 million
 
 **How long will treasury funds be vested in the assets proposed?**
 
