@@ -76,8 +76,7 @@ On a 40K ADA budget, purchase the following The Ape Society pieces:
 * 1 x Chateau of high SLVD rating (Ideally A, B, or C). The top locations for Ape Society Cabins are Gocon City, Tasama City, and Canmard city. ~ 4K ADA budget
 
 
-
-Additional real estate and apes as budget permits, subject to market conditions.
+Additional real estate and apes as budget permits, subject to market conditions. Allocation may be altered slightly if price floors move dramatically, this is a rough guide.
 
 Also, the argument could be made for buying additional frames and cabins to display more of the DAO's assets.
 
