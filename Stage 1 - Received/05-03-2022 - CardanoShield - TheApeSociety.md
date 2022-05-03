@@ -1,6 +1,7 @@
 ## Proposal Author(s)
-CardanoShield#1858
-stocktrade#8490
+* CardanoShield#1858
+
+* stocktrade#8490
 
 **Date: 5/2/2022**
 
