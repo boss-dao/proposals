@@ -4,26 +4,27 @@ stocktrade#8490
 
 **Date: 5/2/2022**
 
-**CardanoShield#1858**
-* Online Identity: @CardanoShield
+**CardanoShield**
+* Online Identity: @CardanoShield#1858
 * Affiliation: (None)
 * Role: Boss DAO Member
 
 **stocktrade**
-* Online Identity: @CardanoShield
+* Online Identity: @stocktrade#8490
 * Affiliation: (None)
 * Role: Boss DAO Member
 
-
 ## Proposal Summary
 We propose that BossDAO become a member of the Ape Society, acquiring both Apes and cabins, to earn SOCIETY token rewards for the BossDAO treasury and strengthen bonds between the two projects. This not only will
-generate sustainable cash flows in the form of SOCIETY token for the DAO, but it will also provide a way for the DAO to display its treasury holdings to the world, with each cabin serving as a virtual art gallery. The intent here is for BossDAO to be an active participant in the SOCIETY economy, NOT a passive investor.
+generate sustainable cash flows in the form of SOCIETY token for the DAO, but it will also provide a way for the DAO to display its treasury holdings to the world, with each cabin serving as a virtual art gallery. 
+
+The intent here is for BossDAO to be an *active* participant in the SOCIETY economy, NOT a passive investor.
 
 ## Proposal Details
 
 **What is The Ape Society?**
 
-The Ape Society It is a blue-chip CNFT project with over 11 million cumulative ADA volume on the main 7K The Ape Society collection and over 2 million cumulative ADA volume on 10k The Ape Society Cabins. The artwork is created by an award-winning studio and the 3-man team driving the project (Congo, Matasa, and Cardman) are exceptionally talented in executing their vision and has applied a lot of game theory to the design of the project. The community is like no other in CNFT, with people constantly building everything from fan art, memes, analytics, youtube content, and marketing videos with hired voice actors.
+The Ape Society is a blue-chip CNFT project with over 11 million cumulative ADA volume on the main 7K The Ape Society collection and over 2 million cumulative ADA volume on 10k Ape Society Cabins. The artwork is created by an award-winning studio and the 3-man team driving the project (Congo, Matasa, and Cardman) is exceptionally talented in executing their vision and has applied a lot of advanced game theory to the design of the project. The community is like no other in CNFT, with community members constantly building everything from fan art, memes, analytics, youtube content, and even marketing videos with hired voice actors.
 
 There is also a DAO component -- the team wields no special influence here; they are members of the DAO just like everyone else. The DAO is not an investment DAO, rather, it focuses on initiatives to expand the project's reach and bring more people into The Ape Society, as well as create additional utility for holders -- with everything from advertising initiatives to building a new board game.
 
@@ -57,26 +58,36 @@ Nobles (qty: 70) - most valuable class (86.1k ADA floor). Rarest class of Ape.  
 SOCIETY staking rewards: 7x
 current floor: 86K ADA
 
-** How does the BossDAO earn SOCIETY token **
-
-We earn SOCIETY token by staking apes in the treasury wallet in frames within cabins. We don't know the exact details of how many frames there will be for cabin, for example. However, 
-
 **What will the Boss DAO do?**
 
 On a 40K ADA budget, purchase the following The Ape Society pieces:
-2 x Craftsmen for crafting items to decorate cabin(s) (or selling items for SOCIETY) - 5K ADA budget
-1 x Artist for WL boost - 2.7K ADA budget + 1 free frame - 2.7K ADA budget.
-1 x Explorers for 50% Frame discount - 3.5K ADA budget
-1 x Merchant - 2% of SOCIETY marketplace revenues earned by merchants - 5K ADA budget
-2 x Military Officers for looting items - 12K-14K ADA budget
-1 x Chateau of high SLVD rating (Ideally A, B, or C). The top locations for Ape Society Cabins are Gocon City, Tasama City, and Canmard city. ~ 4K ADA
+
+* 2 x Craftsmen for crafting items to decorate cabin(s) (or selling items for SOCIETY) - 5K ADA budget
+
+* 1 x Artist for WL boost - 2.7K ADA budget + 1 free frame - 2.7K ADA budget.
+
+* 1 x Explorers for 50% Frame discount - 3.5K ADA budget
+
+* 1 x Merchant - 2% of SOCIETY marketplace revenues earned by merchants - 5K ADA budget
+
+* 2 x Military Officers for looting items - 12K-15K ADA budget
+
+* 1 x Chateau of high SLVD rating (Ideally A, B, or C). The top locations for Ape Society Cabins are Gocon City, Tasama City, and Canmard city. ~ 4K ADA budget
+
+
+
 Additional real estate and apes as budget permits, subject to market conditions.
------------------------------------------------------------
-Subtotal: 32.2K to 34.4K ADA
 
 Also, the argument could be made for buying additional frames and cabins to display more of the DAO's assets.
 
 In order to get more apes framed early on, the DAO will likely need to get more SOCIETY token on secondary (Minswap), once official liquidity is provided, in order to secure additional frames. 1 Frame per Ape is needed, plus 1 frame per Non-Ape NFT that the DAO wants to stake in its cabins. The frames also can be upgraded up to 7 levels.
+
+**How can  the BossDAO participate in the Ape Society $SOCIETY economy?**
+
+Boss DAO will earn SOCIETY token by staking apes in frames within cabins. Items created by Craftsmen, or looted by military can also be sold for SOCIETY. Frames earn society whether they hold Ape NFTs or non-Ape NFTs, but more SOCIETY will be earned if apes are in the frames.  Non-Ape NFTs just get the base frame SOCIETY reward.  Society token can be used for the following purposes:
+(1) purchase frames, which are needed to stake apes. Upgrade frames to earn higher SOCIETY rewards.
+(2) used to buy furniture/items for Cabins on the marketplace Ape Society is building for Cabins.
+(3) exchange for ADA on the Minswap DEX (once official liquidity pool is up, not up yet), to grow the treasury
 
 **How long will treasury funds be vested in the assets proposed?**
 
