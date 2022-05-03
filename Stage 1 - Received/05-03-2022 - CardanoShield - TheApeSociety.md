@@ -91,7 +91,7 @@ Boss DAO will earn SOCIETY token by staking apes in frames within cabins. Items 
 
 **How long will treasury funds be vested in the assets proposed?**
 
-No reason to sell apes, but the DAO could consider selling SOCIETY token after all cabins are furnished and frames are purchased and upgraded.
+No reason to sell apes, but the DAO could consider selling SOCIETY token for ADA on the Minswap DEX after all cabins are furnished and frames are purchased and upgraded.
 
 **When should the vote on this proposal be held?**
 
