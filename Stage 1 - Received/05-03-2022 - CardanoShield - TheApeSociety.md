@@ -59,12 +59,12 @@ EXPLORERS (qty: 1015)
 MERCHANTS (qty: 812) 
 * 2% of $SOCIETY revenue from marketplace is divided among Merchants.
 * $SOCIETY Staking rewards: 1.45x.
-* Current floor: 5K ADA 
+* Current floor: 5.4K ADA (very thin)
 
 MILITARY OFFICERS (qty: 609) 
 * Chance of looting items from craftsmen (10%).  Also a small chance of looting a special item from the special treasure chest, which cannot be obtained any other way.
 * $SOCIETY Staking rewards: 1.7x.
-* Current floor: 5K ADA 
+* Current floor: 6.2K ADA (very thin)
 
 ROYAL ADVISORS (qty: 336) 
 * Second most valuable class (21K ADA Floor). These apes provide 1.2x $SOCIETY reward boost for other apes within the same cabin. Especially valuable for holders with large numbers of apes.
