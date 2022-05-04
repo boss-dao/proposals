@@ -27,8 +27,7 @@
 * Role: Boss DAO Member
 
 ## Proposal Summary
-We propose that BossDAO become a member of the Ape Society, acquiring both Apes and cabins, to earn SOCIETY token rewards for the BossDAO treasury and strengthen bonds between the two projects. This not only will
-generate sustainable cash flows in the form of SOCIETY token for the DAO, but it will also provide a way for the DAO to display its treasury holdings to the world, with each cabin serving as a virtual art gallery. 
+We propose that BossDAO become a member of the Ape Society, acquiring both Apes and cabins, to earn SOCIETY token rewards for the BossDAO treasury and strengthen bonds between the two projects. This not only will generate sustainable cash flows in the form of SOCIETY token for the DAO, but it will also provide a way for the DAO to showcase its treasury holdings to the world, with each cabin serving as a virtual 3-D art gallery. 
 
 The intent here is for BossDAO to be an *active* participant in the SOCIETY economy, NOT a passive investor.
 
@@ -66,7 +65,7 @@ Royal Advisors (qty: 336) - second most valuable class (21K ADA Floor). These ap
 SOCIETY Staking rewards: 2.35x.
 Current floor price: 21K ADA
 
-Nobles (qty: 70) - most valuable class (86.1k ADA floor). Rarest class of Ape.  Only 70 exist. This is the de' Medici Family. These were whitelisted to mint Chateaus, the rarest cabin types.
+Nobles (qty: 70) - most valuable class (86.1k ADA floor). Rarest class of Ape -- only 70 exist. This is the de' Medici Family. These were whitelisted to mint Chateaus, the rarest cabin types.
 SOCIETY staking rewards: 7x
 current floor: 86K ADA
 
@@ -74,13 +73,13 @@ current floor: 86K ADA
 
 Since BossDAO already has a craftsman in the treasury, which was donated a while back, we will not purchase an additional craftsmen.
 
-On a 40K ADA budget, purchase the following The Ape Society pieces:
+On a 30K-35K ADA budget, purchase the following The Ape Society pieces:
 
 * 1 x Explorers for 50% Frame discount - 3.5K ADA budget
 
-* 2 x Merchant - 2% of SOCIETY marketplace revenues earned by merchants - 11K ADA budget (can reduce to 1 if necessary)
+* 2 x Merchant - 2% of SOCIETY marketplace revenues earned by merchants - 11K ADA budget (can reduce to 1 if we want to stay below 30K)
 
-* 2 x Military Officers for looting items - 12K-15K ADA budget
+* 2 x Military Officers for looting items - 12K-15K ADA budgetChron
 
 * 1 x Chateau of high SLVD rating (Ideally A, B, or C). The top locations for Ape Society Cabins are Gocon City, Tasama City, and Canmard city. ~ 4K ADA budget
 
