@@ -47,7 +47,7 @@ CRAFTSMEN (qty: 2730)
 * Current floor: 2450 ADA
 
 ARTISTS (qty: 1428)
-* provide Whitelist Boost & free frame. The free frame will definitely help people get up and running more quickly once they are able to buy frames. The whitelist boost gives artists 90% of the WL spots allocated to the Ape Society from other projects. The more artists a wallet holds, the higher the probability of a whitelist spot to mint another project.
+* Provide Whitelist Boost & free frame. The free frame will definitely help people get up and running more quickly once they are able to buy frames. The whitelist boost gives artists 90% of the WL spots allocated to the Ape Society from other projects. The more artists a wallet holds, the higher the probability of a whitelist spot to mint another project.
 * $SOCIETY Staking rewards: 1.1x.
 * Current floor: 2680 ADA 
 
@@ -56,25 +56,25 @@ EXPLORERS (qty: 1015)
 * $SOCIETY Staking rewards: 1.35x.
 * Current floor: 3500 ADA 
 
-Merchants (qty: 812) 
+MERCHANTS (qty: 812) 
 * 2% of $SOCIETY revenue from marketplace is divided among Merchants.
 * $SOCIETY Staking rewards: 1.45x.
 * Current floor: 5K ADA 
 
-Military Officers (qty: 609) 
+MILITARY OFFICERS (qty: 609) 
 * Chance of looting items from craftsmen (10%).  Also a small chance of looting a special item from the special treasure chest, which cannot be obtained any other way.
 * $SOCIETY Staking rewards: 1.7x.
 * Current floor: 5K ADA 
 
-Royal Advisors (qty: 336) 
+ROYAL ADVISORS (qty: 336) 
 * Second most valuable class (21K ADA Floor). These apes provide 1.2x $SOCIETY reward boost for other apes within the same cabin. Especially valuable for holders with large numbers of apes.
 * $SOCIETY Staking rewards: 2.35x.
-* Current floor price: 21K ADA
+* Current floor: 21K ADA
 
-Nobles (qty: 70)
+NOBLES (qty: 70)
 * Most valuable class (86.1k ADA floor). Rarest class of Ape -- only 70 exist. This is the de' Medici Family. These were whitelisted to mint Chateaus, the rarest cabin types.
 * $SOCIETY staking rewards: 7x
-* current floor: 86K ADA
+* Current floor: 86K ADA
 
 **What will the Boss DAO do?**
 
