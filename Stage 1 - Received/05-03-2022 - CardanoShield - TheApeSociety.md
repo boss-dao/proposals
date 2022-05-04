@@ -42,7 +42,7 @@ There is also a DAO component -- the team wields no special influence here; they
 For the main Ape Society collection, 7K apes are divided into 7 distinct classes with unique abilities.
 
 CRAFTSMEN (qty: 2730)
-* While staked, craftsman are able to be deployed to craft various items that can either be placed in their own cabin as furnishings, or sold in the Society marketplace for profit in $society tokens.  Examples of items that can be crafted are chairs, billboard tables, gramophones, wet bars and other furnishings. The size/complexity of the item determines how many days are required for crafting.
+* While staked, craftsman are able to be deployed to craft various items that can either be placed in their own cabin as furnishings, or sold in the $SOCIETY marketplace for profit in $SOCIETY tokens.  Examples of items that can be crafted are chairs, billboard tables, gramophones, wet bars and other furnishings. The size/complexity of the item determines how many days are required for crafting.
 * $SOCIETY Staking rewards: 1.0x.
 * Current floor: 2450 ADA
 
