@@ -41,33 +41,40 @@ There is also a DAO component -- the team wields no special influence here; they
 
 For the main Ape Society collection, 7K apes are divided into 7 distinct classes with unique abilities.
 
-Craftsmen (qty: 2730) - While staked, craftsman are able to be deployed to craft various items that can either be placed in their own cabin as furnishings, or sold in the Society marketplace for profit in $society tokens.  Examples of items that can be crafted are chairs, billboard tables, gramophones, wet bars and other furnishings. The size/complexity of the item determines how many days are required for crafting.
-SOCIETY Staking rewards: 1.0x.
-Current floor: 2450 ADA
+CRAFTSMEN (qty: 2730)
+* While staked, craftsman are able to be deployed to craft various items that can either be placed in their own cabin as furnishings, or sold in the Society marketplace for profit in $society tokens.  Examples of items that can be crafted are chairs, billboard tables, gramophones, wet bars and other furnishings. The size/complexity of the item determines how many days are required for crafting.
+* $SOCIETY Staking rewards: 1.0x.
+* Current floor: 2450 ADA
 
-Artists (qty: 1428) - provide Whitelist Boost & free frame. The free frame will definitely help people get up and running more quickly once they are able to buy frames. The whitelist boost gives artists 90% of the WL spots allocated to the Ape Society from other projects. The more artists a wallet holds, the higher the probability of a whitelist spot to mint another project.
-SOCIETY Staking rewards: 1.1x.
-Current floor: 2680 ADA 
+ARTISTS (qty: 1428)
+* provide Whitelist Boost & free frame. The free frame will definitely help people get up and running more quickly once they are able to buy frames. The whitelist boost gives artists 90% of the WL spots allocated to the Ape Society from other projects. The more artists a wallet holds, the higher the probability of a whitelist spot to mint another project.
+* $SOCIETY Staking rewards: 1.1x.
+* Current floor: 2680 ADA 
 
-Explorers (qty: 1015) - Owning one of these will give you 50% off frame prices. Does not stack for multiple explorers.
-SOCIETY Staking rewards: 1.35x.
-Current floor: 3500 ADA 
+EXPLORERS (qty: 1015)
+* 50% discount on frame prices. Does not stack for multiple explorers.
+* $SOCIETY Staking rewards: 1.35x.
+* Current floor: 3500 ADA 
 
-Merchants (qty: 812) - 2% of SOCIETY revenue from marketplace is divided among Merchants.
-SOCIETY Staking rewards: 1.45x.
-Current floor: 5K ADA 
+Merchants (qty: 812) 
+* 2% of $SOCIETY revenue from marketplace is divided among Merchants.
+* $SOCIETY Staking rewards: 1.45x.
+* Current floor: 5K ADA 
 
-Military Officers (qty: 609) - Chance of looting items from craftsmen (10%).  Also a small chance of looting a special item from the special treasure chest, which cannot be obtained any other way.
-SOCIETY Staking rewards: 1.7x.
-Current floor: 5K ADA 
+Military Officers (qty: 609) 
+* Chance of looting items from craftsmen (10%).  Also a small chance of looting a special item from the special treasure chest, which cannot be obtained any other way.
+* $SOCIETY Staking rewards: 1.7x.
+* Current floor: 5K ADA 
 
-Royal Advisors (qty: 336) - second most valuable class (21K ADA Floor). These apes provide 1.2x SOCIETY reward boost for other apes within the same cabin. Especially valuable for holders with large numbers of apes.
-SOCIETY Staking rewards: 2.35x.
-Current floor price: 21K ADA
+Royal Advisors (qty: 336) 
+* Second most valuable class (21K ADA Floor). These apes provide 1.2x $SOCIETY reward boost for other apes within the same cabin. Especially valuable for holders with large numbers of apes.
+* $SOCIETY Staking rewards: 2.35x.
+* Current floor price: 21K ADA
 
-Nobles (qty: 70) - most valuable class (86.1k ADA floor). Rarest class of Ape -- only 70 exist. This is the de' Medici Family. These were whitelisted to mint Chateaus, the rarest cabin types.
-SOCIETY staking rewards: 7x
-current floor: 86K ADA
+Nobles (qty: 70)
+* Most valuable class (86.1k ADA floor). Rarest class of Ape -- only 70 exist. This is the de' Medici Family. These were whitelisted to mint Chateaus, the rarest cabin types.
+* $SOCIETY staking rewards: 7x
+* current floor: 86K ADA
 
 **What will the Boss DAO do?**
 
@@ -77,7 +84,7 @@ On a 30K-35K ADA budget, purchase the following The Ape Society pieces:
 
 * 1 x Explorers for 50% Frame discount - 3.5K ADA budget
 
-* 2 x Merchant - 2% of SOCIETY marketplace revenues earned by merchants - 11K ADA budget (can reduce to 1 if we want to stay below 30K)
+* 2 x Merchant - 2% of $SOCIETY marketplace revenues earned by merchants - 11K ADA budget (can reduce to 1 if we want to stay below 30K)
 
 * 2 x Military Officers for looting items - 12K-15K ADA budgetChron
 
@@ -87,26 +94,26 @@ Additional real estate and apes as budget permits, subject to market conditions.
 
 Also, the argument could be made for buying additional frames and cabins to display more of the DAO's assets.
 
-In order to get more apes framed early on, the DAO will likely need to get more SOCIETY token on secondary (Minswap), once official liquidity is provided, in order to secure additional frames. 1 Frame per Ape is needed, plus 1 frame per Non-Ape NFT that the DAO wants to stake in its cabins. The frames also can be upgraded up to 7 levels. Each level provides higher $SOCIETY staking yield.
+In order to get more apes framed early on, the DAO will likely need to get more $SOCIETY token on secondary (Minswap), once official liquidity is provided, in order to secure additional frames. 1 Frame per Ape is needed, plus 1 frame per Non-Ape NFT that the DAO wants to stake in its cabins. The frames also can be upgraded up to 7 levels. Each level provides higher $SOCIETY staking yield.
 
 **How can the BossDAO participate in the Ape Society $SOCIETY economy?**
 
-Boss DAO will earn SOCIETY token by staking apes in frames within cabins. Items created by Craftsmen, or looted by military can also be sold for SOCIETY. Frames earn society whether they hold Ape NFTs or non-Ape NFTs, but more SOCIETY will be earned if apes are in the frames.  Non-Ape NFTs just get the base frame SOCIETY reward.  Society token can be used for the following purposes:
+Boss DAO will earn $SOCIETY token by staking apes in frames within cabins. Items created by Craftsmen, or looted by military can also be sold for $SOCIETY. Frames earn society whether they hold Ape NFTs or non-Ape NFTs, but more $SOCIETY will be earned if apes are in the frames.  Non-Ape NFTs just get the base frame $SOCIETY reward.  Society token can be used for the following purposes:
 
-* purchase frames, which are needed to stake apes. Upgrade frames to earn higher SOCIETY rewards.
+* purchase frames, which are needed to stake apes. Upgrade frames to earn higher $SOCIETY rewards.
 * used to buy furniture/items for Cabins on the marketplace Ape Society is building for Cabins.
 * exchange for ADA on the Minswap DEX (once official liquidity pool is up, not up yet), to grow the treasury
 
-**Reasons to be bullish on the value of SOCIETY token**
-* SOCIETY is deflationary. 
+**Reasons to be bullish on the value of $SOCIETY token**
+* $SOCIETY is deflationary. 
 * it will be required to buy frames and items/furniture for cabins, hence there will always be demand for it as long as the community continues to have a use for it.
-* All SOCIETY used to purchase frames is burned.
-* 1% of all marketplace purchases in SOCIETY are burned.
+* All $SOCIETY used to purchase frames is burned.
+* 1% of all marketplace purchases in $SOCIETY are burned.
 * Total supply is only 700 million
 
 **How long will treasury funds be vested in the assets proposed?**
 
-No reason to sell apes, but the DAO could consider selling SOCIETY token for ADA on the Minswap DEX after all cabins are furnished and frames are purchased and upgraded.
+No reason to sell apes, but the DAO could consider selling $SOCIETY token for ADA on the Minswap DEX after all cabins are furnished and frames are purchased and upgraded.
 
 **When should the vote on this proposal be held?**
 
