@@ -102,7 +102,7 @@ In order to get more apes framed early on, the DAO will likely need to get more 
 
 **How can the BossDAO participate in the Ape Society $SOCIETY economy?**
 
-Boss DAO will earn $SOCIETY token by staking apes in frames within cabins. Items created by Craftsmen, or looted by military can also be sold for $SOCIETY. Frames earn society whether they hold Ape NFTs or non-Ape NFTs, but more $SOCIETY will be earned if apes are in the frames.  Non-Ape NFTs just get the base frame $SOCIETY reward.  Society token can be used for the following purposes:
+Boss DAO will earn $SOCIETY token by staking apes in frames within cabins. Items created by Craftsmen, or looted by military can also be sold for $SOCIETY. Frames earn society whether they hold Ape NFTs or non-Ape NFTs, but more $SOCIETY will be earned if apes are in the frames. Non-Ape NFTs just get the frame $SOCIETY reward rate (which would depend on the level of the frame). $SOCIETY token can be used for the following purposes:
 
 * purchase frames, which are needed to stake apes. Upgrade frames to earn higher $SOCIETY rewards.
 * used to buy furniture/items for Cabins on the marketplace Ape Society is building for Cabins.
