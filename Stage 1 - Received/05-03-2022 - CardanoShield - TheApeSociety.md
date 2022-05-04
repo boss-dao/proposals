@@ -88,7 +88,7 @@ On a 30K-35K ADA budget, purchase the following The Ape Society pieces:
 
 * 2 x Merchant - 2% of $SOCIETY marketplace revenues earned by merchants - 11K ADA budget (can reduce to 1 if we want to stay below 30K)
 
-* 2 x Military Officers for looting items - 12K-15K ADA budgetChron
+* 2 x Military Officers for looting items - 12K-15K ADA budget
 
 * 1 x Chateau of high SLVD rating (Ideally A, B, or C). The top locations for Ape Society Cabins are Gocon City, Tasama City, and Canmard city. ~ 4K ADA budget
 
