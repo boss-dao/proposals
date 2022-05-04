@@ -25,17 +25,17 @@ The intent here is for BossDAO to be an *active* participant in the SOCIETY econ
 
 **What is The Ape Society?**
 
-The Ape Society is a blue-chip CNFT project with over 11 million cumulative ADA volume on the main 7K The Ape Society collection and over 2 million cumulative ADA volume on 10k Ape Society Cabins. The artwork is created by an award-winning studio and the 3-man team driving the project (Congo, Matasa, and Cardman) is exceptionally talented in executing their vision. They have applied advanced game theory to the design of the project. The community is like no other in CNFT, with community members constantly building everything from fan art, memes, analytics, youtube content, and even marketing videos with hired voice actors.
+The Ape Society is a blue-chip CNFT project with over 11 million cumulative ADA volume on the main 7K Ape Society collection and over 2 million cumulative ADA volume on 10k Ape Society Cabins. The artwork is created by an award-winning studio and the 3-man team driving the project (Congo, Matasa, and Cardman) is exceptionally talented in executing their vision. What really makes this project stands out is that the team has applied advanced game theory to the design of the project. The community is like no other in CNFT, with community members constantly building everything from fan art, memes, analytics, youtube content, and even marketing videos with hired voice actors.
 
 There is also a DAO component -- the team wields no special influence here; they are members of the DAO just like everyone else. The DAO is not an investment DAO, rather, it focuses on initiatives to expand the project's reach and bring more people into The Ape Society, as well as create additional utility for holders -- with everything from advertising initiatives to building a new board game.
 
 For the main Ape Society collection, 7K apes are divided into 7 distinct classes with unique abilities.
 
-Craftsmen (qty: 2730) - craft items. Items can be sold on The Ape Society Marketplace for SOCIETY token.  
+Craftsmen (qty: 2730) - While staked, craftsman are able to be deployed to craft various items that can either be placed in their own cabin as furnishings, or sold in the Society marketplace for profit in $society tokens.  Examples of items that can be crafted are chairs, billboard tables, gramophones, wet bars and other furnishings. The size/complexity of the item determines how many days are required for crafting.
 SOCIETY Staking rewards: 1.0x.
 Current floor: 2450 ADA
 
-Artists (qty: 1428) - provide Whitelist Boost & free frame. The free frame will definitely help people get up and running more quickly once they are able to buy frames.
+Artists (qty: 1428) - provide Whitelist Boost & free frame. The free frame will definitely help people get up and running more quickly once they are able to buy frames. The whitelist boost gives artists 90% of the WL spots allocated to the Ape Society from other projects. The more artists a wallet holds, the higher the probability of a whitelist spot to mint another project.
 SOCIETY Staking rewards: 1.1x.
 Current floor: 2680 ADA 
 
@@ -61,20 +61,17 @@ current floor: 86K ADA
 
 **What will the Boss DAO do?**
 
+Since BossDAO already has a craftsman in the treasury, which was donated a while back, we will not purchase an additional craftsmen.
+
 On a 40K ADA budget, purchase the following The Ape Society pieces:
-
-* 2 x Craftsmen for crafting items to decorate cabin(s) (or selling items for SOCIETY) - 5K ADA budget
-
-* 1 x Artist for WL boost - 2.7K ADA budget + 1 free frame - 2.7K ADA budget.
 
 * 1 x Explorers for 50% Frame discount - 3.5K ADA budget
 
-* 1 x Merchant - 2% of SOCIETY marketplace revenues earned by merchants - 5K ADA budget
+* 2 x Merchant - 2% of SOCIETY marketplace revenues earned by merchants - 11K ADA budget (can reduce to 1 if necessary)
 
 * 2 x Military Officers for looting items - 12K-15K ADA budget
 
 * 1 x Chateau of high SLVD rating (Ideally A, B, or C). The top locations for Ape Society Cabins are Gocon City, Tasama City, and Canmard city. ~ 4K ADA budget
-
 
 Additional real estate and apes as budget permits, subject to market conditions. Allocation may be altered slightly if price floors move dramatically, this is a rough guide.
 
@@ -85,6 +82,7 @@ In order to get more apes framed early on, the DAO will likely need to get more 
 **How can the BossDAO participate in the Ape Society $SOCIETY economy?**
 
 Boss DAO will earn SOCIETY token by staking apes in frames within cabins. Items created by Craftsmen, or looted by military can also be sold for SOCIETY. Frames earn society whether they hold Ape NFTs or non-Ape NFTs, but more SOCIETY will be earned if apes are in the frames.  Non-Ape NFTs just get the base frame SOCIETY reward.  Society token can be used for the following purposes:
+
 * purchase frames, which are needed to stake apes. Upgrade frames to earn higher SOCIETY rewards.
 * used to buy furniture/items for Cabins on the marketplace Ape Society is building for Cabins.
 * exchange for ADA on the Minswap DEX (once official liquidity pool is up, not up yet), to grow the treasury
@@ -94,7 +92,7 @@ Boss DAO will earn SOCIETY token by staking apes in frames within cabins. Items 
 * it will be required to buy frames and items/furniture for cabins, hence there will always be demand for it as long as the community continues to have a use for it.
 * All SOCIETY used to purchase frames is burned.
 * 1% of all marketplace purchases in SOCIETY are burned.
-* supply only 700 million
+* Total supply is only 700 million
 
 **How long will treasury funds be vested in the assets proposed?**
 
