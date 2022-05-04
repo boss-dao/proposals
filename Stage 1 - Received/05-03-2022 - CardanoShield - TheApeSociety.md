@@ -1,10 +1,10 @@
+**Date: 5/4/2022**
+
 ## Proposal Author(s)
 * CardanoShield#1858
 * WnNRome#8632
 * JimDrix#4381
 * stocktrade#8490
-
-**Date: 5/4/2022**
 
 **CardanoShield**
 * Online Identity: CardanoShield#1858
@@ -88,7 +88,7 @@ Additional real estate and apes as budget permits, subject to market conditions.
 
 Also, the argument could be made for buying additional frames and cabins to display more of the DAO's assets.
 
-In order to get more apes framed early on, the DAO will likely need to get more SOCIETY token on secondary (Minswap), once official liquidity is provided, in order to secure additional frames. 1 Frame per Ape is needed, plus 1 frame per Non-Ape NFT that the DAO wants to stake in its cabins. The frames also can be upgraded up to 7 levels.
+In order to get more apes framed early on, the DAO will likely need to get more SOCIETY token on secondary (Minswap), once official liquidity is provided, in order to secure additional frames. 1 Frame per Ape is needed, plus 1 frame per Non-Ape NFT that the DAO wants to stake in its cabins. The frames also can be upgraded up to 7 levels. Each level provides higher $SOCIETY staking yield.
 
 **How can the BossDAO participate in the Ape Society $SOCIETY economy?**
 
