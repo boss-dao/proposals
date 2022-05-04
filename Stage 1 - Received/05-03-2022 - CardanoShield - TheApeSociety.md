@@ -1,17 +1,28 @@
 ## Proposal Author(s)
 * CardanoShield#1858
-
+* WnNRome#8632
+* JimDrix#4381
 * stocktrade#8490
 
-**Date: 5/2/2022**
+**Date: 5/4/2022**
 
 **CardanoShield**
-* Online Identity: @CardanoShield#1858
+* Online Identity: CardanoShield#1858
+* Affiliation: (None)
+* Role: Boss DAO Member
+
+**WnNRome**
+* Online Identity: WnNRome#8632
+* Affiliation: (None)
+* Role: Boss DAO Member
+
+**JimDrix**
+* Online Identity: JimDrix#4381
 * Affiliation: (None)
 * Role: Boss DAO Member
 
 **stocktrade**
-* Online Identity: @stocktrade#8490
+* Online Identity: stocktrade#8490
 * Affiliation: (None)
 * Role: Boss DAO Member
 
