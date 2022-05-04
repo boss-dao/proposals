@@ -105,11 +105,12 @@ Boss DAO will earn $SOCIETY token by staking apes in frames within cabins. Items
 * exchange for ADA on the Minswap DEX (once official liquidity pool is up, not up yet), to grow the treasury
 
 **Reasons to be bullish on the value of $SOCIETY token**
-* $SOCIETY is deflationary. 
-* it will be required to buy frames and items/furniture for cabins, hence there will always be demand for it as long as the community continues to have a use for it.
-* All $SOCIETY used to purchase frames is burned.
-* 1% of all marketplace purchases in $SOCIETY are burned.
 * Total supply is only 700 million
+
+* It will be required to buy frames and items/furniture for cabins, hence there will always be demand for it as long as the community continues to have a use for it.
+* $SOCIETY is deflationary. 
+    * All $SOCIETY used to purchase frames is burned.
+    * 1% of all marketplace purchases in $SOCIETY are burned.
 
 **How long will treasury funds be vested in the assets proposed?**
 
