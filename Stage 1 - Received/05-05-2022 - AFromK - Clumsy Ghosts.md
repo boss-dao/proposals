@@ -12,8 +12,8 @@ Clumsy Ghosts Proposal
 
 Proposal Summary:
 
-I propose the ___ DAO spend 5,000 ADA sweeping the floor of Clumsy Ghosts.
-Furthermore, I propose the ___ DAO mint 1 Clumsy Valley Land Plot per Ghost owned upon the Clumsy
+I propose the Boss DAO spend 5,000 ADA sweeping the floor of Clumsy Ghosts.
+Furthermore, I propose the Boss DAO mint 1 Clumsy Valley Land Plot per Ghost owned upon the Clumsy
 Valley Land Sale planned to take place in September of 2022. (Mint Price TBA, likely 30-40 ADA)
 
 
@@ -208,5 +208,5 @@ Conclusion:
 Clumsy Ghosts has recently gotten some attention following the reveal of Clumsy Valley, but they are still
 relatively unknown in the space. Investing in Clumsy Ghosts is investing in all the innovative technology
 mentioned in this proposal. Clumsy Ghosts also has an active and dedicated community that has grown
-organically over the last 7 months. Adding this NFT Collection to the ___ DAO Treasury will bring
+organically over the last 7 months. Adding this NFT Collection to the Boss DAO Treasury will bring
 extraordinary value to the DAO.
