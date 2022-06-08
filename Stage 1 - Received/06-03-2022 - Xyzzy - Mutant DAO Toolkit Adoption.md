@@ -26,9 +26,9 @@ Section 1: Proposal Summary
 
 1.3
 Mutant NFT Key Indicators :
-# of  total assets: 16,031 (6k Crocs, 5k Mice, 5k Toads). This is not a fixed amount - there are hints at future mints. (Mutant Lab)
-# of Unique Staked Wallets: 1,619
-# of sales: 6,899
+Number of  total assets: 16,031 (6k Crocs, 5k Mice, 5k Toads). This is not a fixed amount - there are hints at future mints. (Mutant Lab)
+Number of Unique Staked Wallets: 1,619
+Number of sales: 6,899
 (All of this data was available on a single page on the service theyre offering, you would be able to find out everything about Boss DAO on a single page!)
 
 Section 2: Proposal Details 
