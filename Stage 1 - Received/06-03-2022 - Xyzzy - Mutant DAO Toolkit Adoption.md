@@ -67,4 +67,5 @@ Wednesday, June 8th, 2022 at 1800 UTC
 Relevant Links:
 
 https://dao.mutant-nft.com/staking
+
 https://medium.com/@Mutant-NFT/staking-as-a-service-how-we-are-going-to-change-the-game-ca9f19a8f962
