@@ -29,7 +29,7 @@ ADA NinjaZ is a multimedia entertainment NFT project having built a robust commu
 
 The ADA NinjaZ next release ADA NinjaZ: Shards of Ninava alpha is planned to release before the month ends, followed by the beginning of $NINJAZ distribution. The $NINJAZ token will be used for in-game purchases, and will have liquidity pools available on secondary markets. While all clans are eligible for tokens, it's important to get all three: Aramar clan receives the highest airdrop amount, Atsuko receives lootboxes for the upcoming game, and Daisuke receive the most staking rewards.
 
-ADA NinjaZ NFTs has dropped from 10.69% to 8.49% listed on secondary markets in the entire collection over the past month, and we expect that number to shrink as token distribution gets closer and the game begins scaling. There is also a burn event which will require an NFT from all three clans to participate, this will lower the supply potentially creating a supply shock between staking and burning.
+ADA NinjaZ NFTs has dropped from 10.69% to 8.49% listed on secondary markets across the entire collection over the past month, and we expect that number to shrink as token distribution gets closer and the game begins scaling. There is also a burn event which will require an NFT from all three clans to participate, this will lower the supply potentially creating a supply shock between staking and burning.
 
 In conclusion, we expect ADA NinjaZ NFTs to be a solid investment themselves, which will not only produce $NINJAZ, but also act as coveted voting power within many aspects of the project. The game will give the $NINJAZ token inherent value through the ability to buy in-game items that are mintable and can be sold on secondary markets from within the game, P2E.
  
