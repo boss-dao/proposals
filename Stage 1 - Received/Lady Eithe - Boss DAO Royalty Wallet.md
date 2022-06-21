@@ -1,8 +1,8 @@
 Date: 2022-06-21
 
-• Online Identity: Lady Eithe
-• Affiliation: Boss DAO
-• Role: Community Manager
+* Online Identity: Lady Eithe
+* Affiliation: Boss DAO
+* Role: Community Manager
 
 
 
