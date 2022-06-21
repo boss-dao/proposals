@@ -30,7 +30,7 @@ of our Boss DAO governance tokens and promote our project to other communities. 
 We want to be on par with other NFT projects when it comes to giveways during the high season like Christmas. Our royalty wallet will buy one of the bigger project NFT's 
 and will give it away during those periods. The sum may warry between 500 - 1500 ADA. This is done to promote our brand during holiday seasons.
 
-5.Twitter giveaways
+5. Twitter giveaways
 During our mint periods we had ongoing giveaways from Boss DAO twitter account to promote our minting. I propose that we use a portion of ada during those times it will 
 raise the awarness and promote Boss DAO.
 
