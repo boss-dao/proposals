@@ -24,6 +24,10 @@ to next week, e.g. if we use 70 ada this week then we would need to add only 70 
 Boss DAO will utilize up to 200 ada from the Royalty wallet, the ada will be spent on some smaller nfts and new projects that have minted recently
 up to a sum of 200 ada. These NFT will be given away to Poker Game winners.
 
+* Sweep Contests
+
+We will use 100 - 200 ADA for the rewards of the sweeping contest. 
+
 * Collaborations
 
 In case of Collaboration event with other NFT project we would want to promote Boss DAO in the best way possible, the ada from the treasury wallet will be used
