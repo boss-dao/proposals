@@ -4,18 +4,18 @@
 
 **Author 1:**
 * Online Identity: Vivid
-* Affiliation: ADA NinjaZ/Boss Dao
+* Affiliation: ADA NinjaZ/Boss DAO
 * Role: Community Manager/Holder
 
 **Author 2:**
-* Online Identity: 
-* Affiliation: 
-* Role: 
+* Online Identity: Lady Eithe
+* Affiliation: ADA NinjaZ/Boss DAO
+* Role: Holder/Community Manager
 
 **Author 3:**
-* Online Identity: 
-* Affiliation: 
-* Role: Boss DAO Member
+* Online Identity: $KJV 
+* Affiliation: ADA NinjaZ/Boss DAO
+* Role: Holder/Holder
 
 ## Proposal Summary
 
