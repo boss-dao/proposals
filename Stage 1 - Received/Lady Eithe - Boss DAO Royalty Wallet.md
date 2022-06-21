@@ -9,7 +9,7 @@ Date: 2022-06-21
 Proposal Summary 
 
 I propose that we utilize portion of the Boss DAO royalty wallet for the community games, events, seasonal givewaya and collaborations. This will in turn incentivize community activity.
-The activities will benefit the holders and make the DAO a more intresting space to hang out in.
+The activities will benefit the holders and make the DAO a more intresting space to hang out in. As well as promote Boss DAO for other communities.
 
 
 Proposal Details
