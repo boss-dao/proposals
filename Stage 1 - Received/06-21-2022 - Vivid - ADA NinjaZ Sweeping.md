@@ -23,13 +23,13 @@ We propose the Boss DAO utilizes 5,000 ADA of treasury funds to sweep the ADA Ni
 
 ## Proposal Details
 
-The Boss DAO will use 5,000 ADA from the treasury to buy ADA NinjaZ Aramar, Daisuke, and Atsuko NFTs.
+The Boss DAO will use 5,000 ADA from the treasury to buy ADA NinjaZ Aramar, Daisuke, and Atsuko NFTs. We recommend 20% be used towards Aramar floor, 40% to be used towards Atsuko, and 40% to be used towards Daisuke. We recommend this ratio as Aramar has been on the market for a longer period of time, and we expect to see more short-term growth from the undervalued newer clans; furthermore, Atsuko will receive lootboxes that can be sold on secondary and Daisuke receive the most staking rewards.
 
 ADA NinjaZ is a multimedia entertainment NFT project having built a robust community and produced two volumes of manga, two songs available on Spotify, and three sold-out NFT drops. A third song, anime script, and game is currently in the works.  
 
 The next release ADA NinjaZ: Shards of Ninava alpha is planned to release before the month ends, followed by the beginning of $NINJAZ distribution. The $NINJAZ token will be used for in-game purchases, and will have liquidity pools available on secondary markets. While all clans are eligible for tokens, it's important to get all three: Aramar clan receives the highest airdrop amount, Atsuko receives lootboxes for the upcoming game, and Daisuke receive the most staking rewards. ADA NinjaZ will utilize the Mutants staking platform for their NFT staking, and will customize the experience for ADA NinjaZ holders. 
 
-ADA NinjaZ NFTs has dropped from 10.69% to 8.49% listed on secondary markets across the entire collection over the past month, and we expect that number to shrink as token distribution gets closer and the game begins scaling. There is also a burn event which will require an NFT from all three clans to participate in the burn, this will create an evolving smaller supply "smoke" NFT, and will reduce the current main collection by an estimated 6,000 NFTs. Staking and the burn could potentially create a supply shock in an already diminishing supply on secondary markets. 
+ADA NinjaZ NFTs has dropped from 10.69% to 8.49% listed on secondary markets across the entire collection over the past month, and we expect that number to shrink as token distribution gets closer and the game begins scaling. There is also a burn event which will require an NFT from all three clans to participate in the burn, this will create an evolving smaller supply "smoke" NFT, and will reduce the current main collection by an estimated 8,000 NFTs. Staking and the burn could potentially create a supply shock in an already diminishing supply on secondary markets. 
 
 In conclusion, we expect ADA NinjaZ NFTs to be a solid investment themselves, which will not only produce $NINJAZ, but also act as coveted voting power within many aspects of the project. The game will give the $NINJAZ token inherent value through the ability to buy in-game items that are mintable and can be sold on secondary markets from within the game, P2E.
  
