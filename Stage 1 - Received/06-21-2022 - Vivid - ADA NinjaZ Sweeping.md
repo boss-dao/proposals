@@ -27,7 +27,7 @@ The Boss DAO will use 5,000 ADA from the treasury to buy ADA NinjaZ Aramar, Dais
 
 ADA NinjaZ is a multimedia entertainment NFT project having built a robust community and produced two volumes of manga, two songs available on Spotify, and three sold-out NFT drops. A third song, anime script, and game is currently in the works.  
 
-The ADA NinjaZ next release ADA NinjaZ: Shards of Ninava alpha is planned to release before the month ends, followed by the beginning of $NINJAZ distribution. The $NINJAZ token will be used for in-game purchases, and will have liquidity pools available on secondary markets. While all clans are eligible for tokens, it's important to get all three: Aramar clan receives the highest airdrop amount, Atsuko receives lootboxes for the upcoming game, and Daisuke receive the most staking rewards.
+The next release ADA NinjaZ: Shards of Ninava alpha is planned to release before the month ends, followed by the beginning of $NINJAZ distribution. The $NINJAZ token will be used for in-game purchases, and will have liquidity pools available on secondary markets. While all clans are eligible for tokens, it's important to get all three: Aramar clan receives the highest airdrop amount, Atsuko receives lootboxes for the upcoming game, and Daisuke receive the most staking rewards.
 
 ADA NinjaZ NFTs has dropped from 10.69% to 8.49% listed on secondary markets across the entire collection over the past month, and we expect that number to shrink as token distribution gets closer and the game begins scaling. There is also a burn event which will require an NFT from all three clans to participate, this will lower the supply potentially creating a supply shock between staking and burning.
 
