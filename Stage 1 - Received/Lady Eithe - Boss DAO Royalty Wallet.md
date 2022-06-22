@@ -46,4 +46,4 @@ raise the awarness and promote Boss DAO.
 
 * Branding
 
-Boss DAO will utilize royalty wallet to pay for following services as needed. Services could include artists, payed promotion or any other creative piece that DAO may need in the future. This could be a one time cost of 500 - 1500 ADA.
+Boss DAO will utilize royalty wallet to pay for following services as needed. Services could include artists, payed promotion or any other creative piece that DAO may need in the future. This could be a one time cost of 500 - 2000 ADA.
