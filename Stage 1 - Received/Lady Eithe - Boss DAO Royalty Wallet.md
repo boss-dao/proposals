@@ -32,7 +32,7 @@ We will use 100 - 200 ADA for the rewards of the sweeping contest.
 
 In case of Collaboration event with other NFT project we would want to promote Boss DAO in the best way possible, the ada from the treasury wallet will be used
 to purchase 1 Boss DAO governance token which is going to be used in that particular promotion. The token will be purchased from the floor which will increase floor value
-of our Boss DAO governance tokens and promote our project to other communities. Price on of the Boss DAO GT varies, current floor price is 105 ADA. Doing this hopefully attract new holders for the project. 
+of our Boss DAO governance tokens and promote our project to other communities. Price  of the Boss DAO GT varies, current floor price is 105 ADA. Doing this hopefully attract new holders for the project. 
 
 * Seasonal giveways
 
