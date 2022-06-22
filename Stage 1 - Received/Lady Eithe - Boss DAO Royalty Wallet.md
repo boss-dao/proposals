@@ -1,9 +1,14 @@
 Date: 2022-06-21
 
+** Author
 * Online Identity: Lady Eithe
 * Affiliation: Boss DAO
 * Role: Community Manager
 
+** Author 2
+* Online Identity: Pink Queen
+* Affiliation: Boss DAO
+* Role: Marketing Manager
 
 
 Proposal Summary 
