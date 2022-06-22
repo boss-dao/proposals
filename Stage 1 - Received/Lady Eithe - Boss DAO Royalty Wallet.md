@@ -44,4 +44,6 @@ and will give it away during those periods. The sum may warry between 500 - 1500
 During our mint periods we had ongoing giveaways from Boss DAO twitter account to promote our minting. I propose that we use a portion of ADA during those times it will 
 raise the awarness and promote Boss DAO.
 
+* Branding
 
+Boss DAO will utilize royalty wallet to pay for following services as needed. Services could include artists, payed promotions, promo videos.
