@@ -5,7 +5,7 @@ Date: 2022-06-21
 * Affiliation: Boss DAO
 * Role: Community Manager
 
- Author 2
+ Author 
 * Online Identity: Pink Queen
 * Affiliation: Boss DAO
 * Role: Marketing Manager
