@@ -46,4 +46,4 @@ raise the awarness and promote Boss DAO.
 
 * Branding
 
-Boss DAO will utilize royalty wallet to pay for following services as needed. Services could include artists, payed promotionns. Any creative piece that DAO may need in the future.
+Boss DAO will utilize royalty wallet to pay for following services as needed. Services could include artists, payed promotion or any other creative piece that DAO may need in the future.
