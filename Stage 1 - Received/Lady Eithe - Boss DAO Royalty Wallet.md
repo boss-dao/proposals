@@ -19,10 +19,10 @@ Proposal Details
 Boss DAO will utilize 100 ADA per week for small community games like smash karts, rumble royale or any other community events. The left over ada will not be transfered
 to next week, e.g. if we use 70 ada this week then we would need to add only 70 ada from the Royalty wallet.
 
-* Poker events 
+* Special Events
 
 Boss DAO will utilize up to 200 ada from the Royalty wallet, the ada will be spent on some smaller nfts and new projects that have minted recently
-up to a sum of 200 ada. These NFT will be given away to Poker Game winners.
+up to a sum of 200 ada. These NFT will be given away to winners of the special events.
 
 * Sweep Contests
 
@@ -44,6 +44,6 @@ and will give it away during those periods. The sum may warry between 500 - 1500
 During our mint periods we had ongoing giveaways from Boss DAO twitter account to promote our minting. I propose that we use a portion of ADA during those times  as it will 
 raise the awarness and promote Boss DAO.
 
-* Branding
+* Marketing & Branding
 
 Boss DAO will utilize royalty wallet to pay for following services as needed. Services could include artists, payed promotion or any other creative piece that DAO may need in the future. This could be a one time cost of 500 - 2000 ADA.
