@@ -41,7 +41,7 @@ and will give it away during those periods. The sum may warry between 500 - 1500
 
 * Twitter giveaways
 
-During our mint periods we had ongoing giveaways from Boss DAO twitter account to promote our minting. I propose that we use a portion of ADA during those times it will 
+During our mint periods we had ongoing giveaways from Boss DAO twitter account to promote our minting. I propose that we use a portion of ADA during those times  as it will 
 raise the awarness and promote Boss DAO.
 
 * Branding
