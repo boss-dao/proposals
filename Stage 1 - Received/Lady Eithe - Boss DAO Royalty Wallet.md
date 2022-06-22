@@ -1,11 +1,11 @@
 Date: 2022-06-21
 
-** Author
+ Author
 * Online Identity: Lady Eithe
 * Affiliation: Boss DAO
 * Role: Community Manager
 
-** Author 2
+ Author 2
 * Online Identity: Pink Queen
 * Affiliation: Boss DAO
 * Role: Marketing Manager
