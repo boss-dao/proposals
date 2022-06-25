@@ -29,8 +29,8 @@ Pavia is still in its infancy and the exact layout of Pavia is yet to be general
 Under the current bear market, it is possible to buy an estate on Pavia for around 3000 - 3400 ADA, which is all time low, so it is a good opportunity to acquire it. 
 There are currently two estates on the market for 3200 ADA per estate. They are located at the top of the left peninsula, near their launch pad which we do not yet know what function it will have. Once we have acquired an estate, we can also start planning the construction for Boss DAO's presence on Pavia.
 
-![Suggested estates to buy](https://nft-artist.online/github/estate-lc.png)
-![PAVIA map](https://nft-artist.online/github/Pavia_Map.jpg)
+![Suggested estates to buy]([https://nft-artist.online/github/estate-lc.png](https://nft-artist.online/github/estate-lc.png))
+![PAVIA map]([https://nft-artist.online/github/Pavia_Map.jpg](https://nft-artist.online/github/Pavia_Map.jpg))
 
 **Why should Boss DAO be available on PAVIA?**
 
