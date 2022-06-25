@@ -33,14 +33,16 @@ There are currently two estates on the market for 3200 ADA per estate. They are 
 ![PAVIA map](https://nft-artist.online/github/Pavia_Map.jpg)
 
 **Why should Boss DAO be available on PAVIA?**
-Expansion to a new location is unlikely to make sense unless the new location provides tangible advantages, here are the top benefits:
-*Exposure - Boss DAO can establish as the first DAO with precenses in several of Cardano Metaverses.
-*Investor/Market proximity - We want to be near to our holders and potential new investors.
-*Community - We want our community to grow and that we can meet in more places than just Discord.
-*Coloborations - We can offer partners more benefits by working with us.
-*Event - We can hold many new forms of events in Metaverse, such as launch parties for new projects launched via the Boss DAO launchpad.
 
-Boss DAO will utilize up to 200 ada from the Royalty wallet, the ada will be spent on some smaller nfts and new projects that have minted recently
-up to a sum of 200 ada. These NFT will be given away to winners of the special events.
+Expansion to a new location is unlikely to make sense unless the new location provides tangible advantages, here are the top benefits:
+* Exposure - Boss DAO can establish as the first DAO with precenses in several of Cardano Metaverses.
+* Investor/Market proximity - We want to be near to our holders and potential new investors.
+* Community - We want our community to grow and that we can meet in more places than just Discord.
+* Coloborations - We can offer partners more benefits by working with us.
+* Event - We can hold many new forms of events in Metaverse, such as launch parties for new projects launched via the Boss DAO launchpad.
+
+**Investment cost**
+
+According to the proposal, there are now estates on the market for 3200 ADA. In the event that these are sold or new estates appear on the market, it is proposed that we should allow the proposal to have a certain margin and allow purchases up to 3500 ADA to buy an estate on PAVIA.
 
 
