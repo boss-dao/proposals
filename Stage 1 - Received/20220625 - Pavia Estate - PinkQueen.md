@@ -1,20 +1,20 @@
-* * Date: 2022-06-25 * *
+* *Date: 2022-06-25* *
 
-** Author **
+**Author**
 * Online Identity: Pink Queen
 * Affiliation: Boss DAO
 * Role: Marketing Manager
 
 ![PAVIA](https://nft-artist.online/github/Pavia.png)
 
-** Proposal Summary **
+**Proposal Summary**
 
 In order to position ourselves in Metaverse as DAO, we need to acquire land to later build buildings for exposure and contact with our holders and new investors. Today we only have land on BossPlanet and in order for us to reach out to other groups and diversify towards BCRC, we also need to be available on PAVIA.
 
-** Background **
+**Background**
 In order for Boss DAO to succeed in establishing itself as the best investment DAO on Cardano, we need to constantly stay relevant and be available in the places where our holders and potential new investors gather. It is therefore important that BossDAO has offices in more Metaverse than just BossPlanet. Since our aim is also to diversify ourselves from being overexposed to the BCRC, this is also an important step to take. Boss DAO need to gain ground by proving itself available in Metaverse, it can be one of the most important channels to meet and find new investors.
 
-** About Pavia **
+**About Pavia**
 Pavia is the first OG project on Cardano to start building on a Metaverse, the name is from the Italian city of Pavia, which was home to Gerolamo Cardano in the 1500s. The platform comprises several thousand land parcels held by a community of 21500 holders. Although the pace of development is difficult to assess, they have enough traction to be able to establish themselves as a top tier Metaverse on Cardano, some like to compare them with Decentraland. 
 Pavia is still in its infancy and the exact layout of Pavia is yet to be generally available (apart from a basic map), it will have six distinct areas — land, sand, sea, deep sea, mountain, and forest scenes. Pavia will also have ready-to-use builders, marketplaces, scenes, and deployment tools that anyone can use, without special technical expertise. The team consists of 18 people with different backgrounds, most recently the recruitment was COO Paul who has worked with game launches such as Apex Legends.
 
