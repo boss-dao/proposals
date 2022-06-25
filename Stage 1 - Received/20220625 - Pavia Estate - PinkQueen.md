@@ -3,7 +3,7 @@
 **Author**
 * Online Identity: Pink Queen
 * Affiliation: Boss DAO
-* Role: Marketing Manager
+* Role: Team
 
 ![PAVIA](https://nft-artist.online/github/Pavia.png)
 
