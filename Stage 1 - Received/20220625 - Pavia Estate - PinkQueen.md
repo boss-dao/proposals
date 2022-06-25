@@ -20,8 +20,8 @@ In order for Boss DAO to succeed in establishing itself as the best investment D
 Pavia is the first OG project on Cardano to start building on a Metaverse, the name is from the Italian city of Pavia, which was home to Gerolamo Cardano in the 1500s. The platform comprises several thousand land parcels held by a community of 21500 holders. Although the pace of development is difficult to assess, they have enough traction to be able to establish themselves as a top tier Metaverse on Cardano, some like to compare them with Decentraland. 
 Pavia is still in its infancy and the exact layout of Pavia is yet to be generally available (apart from a basic map), it will have six distinct areas — land, sand, sea, deep sea, mountain, and forest scenes. Pavia will also have ready-to-use builders, marketplaces, scenes, and deployment tools that anyone can use, without special technical expertise. The team consists of 18 people with different backgrounds, most recently the recruitment was COO Paul who has worked with game launches such as Apex Legends.
 
-- [Pavia Team:]( https://www.pavia.io/team.html)
-- [Pavia Roadmap:]( https://www.pavia.io/assets/images/pavia_road_map.svg)
+- [Pavia Team:](https://www.pavia.io/team.html) https://www.pavia.io/team.html
+- [Pavia Roadmap:](https://www.pavia.io/assets/images/pavia_road_map.svg) https://www.pavia.io/assets/images/pavia_road_map.svg
 
 
 **Proposal Details**
@@ -29,8 +29,8 @@ Pavia is still in its infancy and the exact layout of Pavia is yet to be general
 Under the current bear market, it is possible to buy an estate on Pavia for around 3000 - 3400 ADA, which is all time low, so it is a good opportunity to acquire it. 
 There are currently two estates on the market for 3200 ADA per estate. They are located at the top of the left peninsula, near their launch pad which we do not yet know what function it will have. Once we have acquired an estate, we can also start planning the construction for Boss DAO's presence on Pavia.
 
-![Suggested estates to buy]([https://nft-artist.online/github/estate-lc.png](https://nft-artist.online/github/estate-lc.png))
-![PAVIA map]([https://nft-artist.online/github/Pavia_Map.jpg](https://nft-artist.online/github/Pavia_Map.jpg))
+![Suggested estates to buy](https://nft-artist.online/github/estate-lc.png)
+![PAVIA map](https://nft-artist.online/github/Pavia_Map.jpg)
 
 **Why should Boss DAO be available on PAVIA?**
 
