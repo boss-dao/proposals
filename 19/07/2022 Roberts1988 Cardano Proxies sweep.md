@@ -22,7 +22,7 @@ Sustainability and conservation
 In the aim to keep the proposal brief I wont go into detail about these here, but you can read further in the Proxie website here: https://cardanoproxies.io/
 
 
-I would assist the Dao in the sweeping to maximise traits, types etc to ensure that the maximum benefit from sweeping would occur. The proxies are currently still holdin abouve their mint price of 
+I would assist the Dao in the sweeping to maximise traits, types etc to ensure that the maximum benefit from sweeping would occur. The proxies are currently still holding above their mint price of 
 100A with a fp of120A and are developing an extremely creative, artistic and passionate community. I believe the proxies will continue to attract real holders that are investing in the artwork and ethos of the project
 and will see a steady appreciation of their value over time. I also believe this could lead to a healthy relationship between the Boss Dao and the Proxies and open the door for talented content creators
 to do work for the dao also.
